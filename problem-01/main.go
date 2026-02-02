@@ -9,6 +9,7 @@ func main() {
 
 	input1 := "ORDER123"
 	fmt.Println(reverseString(input1))
+	//متدهای که دارن چیزی رو برمیگردونن بهتره داخل یک متغییر ریخته بشن و بعد از اون چاپشون کنی.
 
 	input2 := "CUSTOMER"
 	fmt.Println(reverseString(input2))
